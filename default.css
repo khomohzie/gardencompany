@@ -1,0 +1,21 @@
+body {font-family: "Verdana", "Arial", "Helvetica", sans-serif}
+hr {color: green; background-color: green; height: 3px; clear: left}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+dl, p, li {font-size: 13px}
+dt {font-weight: bold}
+
+a:link {color: blue}
+a:visited {color: green}
+a:hover {color: coral}
+
+#favicon {float: left;}
+.pagetitle {font-size: 30px; margin: 0}
+.tagline {margin: 2px}
+.logo {float: left; margin: 5px; border: none; height: 55px}
+.italics {font-style: italic}
+.navbar {margin: 0px}
+
+table {border-style: outset; border-color: gray; border-width: 2px}
+td {border-style: solid; border-color: gray; border-width: 1px
